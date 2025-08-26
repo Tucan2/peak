@@ -1,0 +1,7 @@
+Csv stuff (convert, zeros (up to max), ignore unnecessary, save y's ) for testing and training
+
+Data loader thing
+
+Use model
+
+Train and test
